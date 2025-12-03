@@ -1,5 +1,9 @@
 # 👨‍💻 Rahul D Korave — Data Analyst Portfolio
 
+<img align="right" src="https://github.com/USERNAME/REPO-NAME/blob/main/profile.jpg" width="220" />
+
+Hi there! I'm **Rahul D. Korave**, a passionate Data Analyst.
+
 Hi there! I'm **Rahul D. Korave**, a passionate **Data Analyst** with strong expertise in building interactive dashboards, automating reporting, and enabling data-driven decision-making across **Sales, Finance, HR & Manufacturing** domains. I enjoy transforming raw datasets into meaningful insights that solve real business problems and support strategic planning.
 
 ---
