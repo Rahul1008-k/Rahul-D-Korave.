@@ -1,57 +1,58 @@
-# 👋 Hi, I'm Rahul D. Korave
+# 👋 Hi, I'm **Rahul D. Korave**
 ### Data Analyst | Power BI | Excel | SQL | Python
 
-Detail-oriented **Data Analyst** with hands-on experience building interactive dashboards, delivering KPI reporting insights, and enabling data-driven decision making across **Sales, Finance, HR & Manufacturing** analytics. Strong engineering background with experience in **automation, PLM systems, and workflow optimization**.
+Detail-oriented **Data Analyst** skilled in transforming raw data into meaningful insights through interactive dashboards, automation, and KPI-driven reporting. Experienced in developing analytics solutions across **Sales, Finance, HR & Manufacturing domains**. Strong engineering foundation with expertise in **workflow optimisation, PLM data management, and analytical problem-solving**.
 
 ---
 
 ## 🧠 Skills & Tools
 
-### **Data Analytics & BI**
-- Power BI | Excel | SQL | Python | Tableau | DAX
-- Data Modelling | Dashboard Design | KPI & Reporting Automation
+### **🔎 Data Analytics & BI**
+Power BI | Excel | SQL | Python | Tableau  
+Data Modelling | Dashboard Design | KPI Reporting | ETL | DAX
 
-### **Technical Tools**
-- Jira | PLM ENOVIA | MS Office | CATIA V5 | Fusion360 | GitHub | Jupyter Notebook
+### **⚙ Technical Tools**
+Jira | PLM ENOVIA | MS Office | CATIA V5 | Fusion360 | GitHub | Jupyter Notebook
 
-### **Statistics & Data Skills**
-- VLOOKUP / XLOOKUP | Pivot Tables | Joins | Aggregations
-- Pandas | NumPy | Matplotlib | Probability | Correlation | Hypothesis Testing
+### **📈 Statistics & Data Processing**
+VLOOKUP / XLOOKUP | Pivot Tables | Joins | Aggregations  
+Pandas | NumPy | Matplotlib | Probability | Correlation | Hypothesis Testing
 
 ---
 
 ## 💼 Professional Experience
 
 ### **Tata Technologies Ltd — Pune, India**  
-**Deputy Design Engineer / Data Analyst (Aug 2022 – Present)**
-- Created structured analytical dashboards & reports used by engineering and leadership teams.
-- Automated reporting to improve workflow efficiency.
-- Managed PLM (ENOVIA) datasets ensuring accuracy and consistency.
-- Prepared VISBOM/PDM reporting insights for engineering teams.
+**Deputy Design Engineer / Data Analyst | Aug 2022 – Present**
+- Designed and delivered interactive analytical dashboards for engineering and management teams.
+- Automated reporting processes to reduce manual work and decision-making delays.
+- Managed and maintained PLM (ENOVIA) datasets ensuring data quality and structural consistency.
+- Generated VISBOM/PDM reporting insights, supporting engineering productivity and quality improvements.
 
 ### **KHK Scaffolding & Formwork LLC — Dubai, UAE**  
-**Tool & Die Maker (Jul 2019 – Sep 2021)**
-- Created structured datasets for production and inspection analysis.
-- Improved manufacturing efficiency & reduced rework using process data.
-- Supported audits, compliance documentation, and quality reporting.
-- Reduced material waste through data-based improvements.
+**Tool & Die Maker | Jul 2019 – Sep 2021**
+- Created structured manufacturing datasets for process analysis and inspection reporting.
+- Improved operational efficiency by reducing rework rates through data-driven insights.
+- Supported quality audits, certification documentation & compliance reporting.
+- Reduced material waste by implementing corrective measures based on production data trends.
 
 ---
 
-## 📊 Projects
+## 📊 Featured Projects
 
-| Project | Tools | Description |
-|--------|--------|-------------|
-| Blinkit Sales Analytics Dashboard | Power BI | Sales & category insights via KPIs, slicers & visuals |
-[📄 View Blinkit Sales Dashboard (PDF)](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/RAHUL_BLINKIT_DASHBOARD.pdf)
-| Finance Analytics Dashboard | Power BI, Excel | Revenue vs expense review & performance tracking |
+| Project | Tools | Description | PDF Link |
+|---------|--------|--------------|-----------|
+| **Blinkit Sales Analytics Dashboard** | Power BI | Developed a comprehensive sales performance analysis dashboard with KPIs including **Total Sales (1202K)**, **Average Rating (3.92)**, and **8523 items sold**. Visualised **sales contribution by outlet tiers, fat content segmentation, and item category trends**, enabling business optimisation. 
+| [📄 View PDF](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/RAHUL_BLINKIT_DASHBOARD.pdf) |
 
-| HR Analytics Dashboard | Power BI | Workforce attrition & demographics analysis |
-[📄 View Blinkit Sales Dashboard (PDF)](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/HR%20Dashboard.pdf)
+| **Finance Analytics Dashboard** | Power BI, Excel | Built a financial insights dashboard showing **77M total profit**, **26M total expenses**, and quarterly revenue trends. Included departmental goal achievement visuals indicating performance >4000% over target and revenue distribution by department & revenue type. 
+| [📄 View PDF](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/Rahul%20Finance%20dashboard.pdf) |
 
-| Sales Performance Dashboard | Power BI | DAX insights for revenue, regions & product trends |
+| **HR Employee Distribution Dashboard** | Power BI | Created an HR analytics dashboard covering gender, age, race, and geographic distribution trends. Highlights include **employee growth 2000–2020**, **average employment of 7 years**, **location split: 75% HQ & 25% remote**, and **termination rates across departments**. | [📄 View PDF](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/HR%20Dashboard.pdf) |
 
-| Manufacturing Analytics (JLR Case Study) | Excel / BI | Downtime & training data for operational improvements |
+| **Sales Performance Dashboard** | Power BI | Built an interactive dashboard to monitor sales trends across product categories, regions and time periods using DAX measures & visual storytelling. | -- |
+
+| **Manufacturing Analytics (JLR Case Study)** | Excel / BI | Analysed downtime, workforce training effectiveness, and production efficiency, supporting lean improvement cycles in manufacturing. | -- |
 
 ---
 
@@ -68,11 +69,11 @@ Detail-oriented **Data Analyst** with hands-on experience building interactive d
 
 ---
 
-## 📫 Contact
-- **Email:** rahulkorave@gmail.com
-- **Mobile / WhatsApp:** +91 748339069
-- **LinkedIn:** https://www.linkedin.com/in/rahul-korave-99a912157/
-- **GitHub:** *(Add link once profile is ready)*
+## 📬 Contact & Socials
+📧 **Email:** rahulkorave@gmail.com  
+📱 **Mobile / WhatsApp:** +91 7483390679  
+🔗 **LinkedIn:** https://www.linkedin.com/in/rahul-korave-99a912157/  
+💻 **GitHub:** *(Portfolio link coming soon)*
 
 ---
 
@@ -83,4 +84,4 @@ Detail-oriented **Data Analyst** with hands-on experience building interactive d
 ---
 
 ### 💡 Thanks for visiting my portfolio!
-If you like my work, feel free to connect on LinkedIn — I’m always open to learning & collaboration.
+✨ *If you like my work, feel free to connect — always open to collaborations & opportunities.* ✨
