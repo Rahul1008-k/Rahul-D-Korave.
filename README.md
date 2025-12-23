@@ -19,6 +19,19 @@ Hi there! I'm **Rahul D Korave**, a passionate **Data Analyst** with hands-on ex
 
 ---
 
+## 🎓 Internship Experience
+
+### Data Analytics Intern — Radical Technologies  
+**June 2025 – December 2025**
+
+- Performed data cleaning and data preparation using Excel and Python  
+- Created interactive dashboards and KPI reports using Power BI  
+- Supported basic ETL processes and structured data transformation  
+- Assisted in analytical reporting and insight generation  
+- Worked with business-style datasets to support data-driven decision-making
+
+---
+
 ## 📁 **Hands-on Data Analytics Projects**
 
 ### 1. 🛒 **Blinkit Sales Analytics Dashboard**
